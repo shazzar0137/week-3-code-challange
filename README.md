@@ -19,7 +19,7 @@ A modern web browser (e.g., Chrome, Firefox, Edge).
 Setup Steps
 Clone this repository:
 
-git clone https://github.com/calvince22/wk3-codeChallenge.git
+git clone git@github.com:shazzar0137/week-3-code-challange.git
 cd wk3-codeChallenge
 Install json-server globally if not already installed:
 
