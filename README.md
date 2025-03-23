@@ -69,5 +69,3 @@ Future Enhancements
 Add user authentication for ticket purchases.
 Integrate a real backend with a database for persistent data.
 Display additional movie details such as ratings and reviews.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
